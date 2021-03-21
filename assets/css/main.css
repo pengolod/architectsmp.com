@@ -3985,6 +3985,8 @@ button:disabled,
   visibility: hidden;
   width: 100%;
   z-index: 10002;
+  overflow: auto;
+  white-space: nowrap;
 }
 
 #menu ul {
